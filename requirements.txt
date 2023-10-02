@@ -1,0 +1,9 @@
+bs4=4.12.2
+catboost=1.2.2
+matplotlib=3.8.0
+pandas=2.0.2
+requests=2.28.2
+seaborn=0.13.0
+session_info=1.0.0
+sklearn=1.2.2
+xgboost=2.0.0
