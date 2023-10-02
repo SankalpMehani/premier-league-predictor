@@ -6,7 +6,7 @@
 
 This project is an English Premier League (EPL) season predictor that utilizes various regression algorithms to forecast the outcomes of the current EPL season. By implementing machine learning models, this tool aims to provide insights into team performance and potential standings in the league.
 
-1.Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 ```
 git clone https://github.com/sankalp512/premier_league_prediction_project.git
@@ -30,12 +30,20 @@ pip install -r requirements.txt
 The following regression algorithms were used in this project:
 
 KNeighborsRegressor
+
 DecisionTreeRegressor
+
 RandomForestRegressor
+
 AdaBoostRegressor
+
 GradientBoostingRegressor
+
 XGBRegressor
+
 CatBoostRegressor
+
+
 Each of these models was trained and evaluated to provide predictions for the EPL season.
 
 
