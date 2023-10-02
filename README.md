@@ -1,24 +1,28 @@
 # English Premier League Season Predictor
 
 
-![EPL Logo](https://github.com/sankalp512/premier_league_prediction_project/assets/36423601/eb27c343-b9d5-415f-a1a5-36ab07c8b235)
+![EPL Logo](https://github.com/sankalp512/premier_league_predictor/assets/36423601/eb27c343-b9d5-415f-a1a5-36ab07c8b235)
 
 
 ## Overview
 
 This project is an English Premier League (EPL) season predictor that utilizes various regression algorithms to forecast the outcomes of the current EPL season. By implementing machine learning models, this tool aims to provide insights into team performance and potential standings in the league.
 
+
+
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/sankalp512/premier_league_prediction_project.git
+git clone https://github.com/sankalp512/premier_league_predictor.git
 ```
+
 
 2. Navigate to the project directory:
 
 ```
 cd premier_league_predictor
 ```
+
 
 3. Install the required dependencies:
 
