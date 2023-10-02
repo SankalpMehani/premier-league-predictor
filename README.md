@@ -1,6 +1,6 @@
 # English Premier League Season Predictor
 
-![EPL Logo]("data/pl_logo.png")
+![EPL Logo]("[data/pl_logo.png](https://github.com/sankalp512/premier_league_prediction_project/data/pl_logo.jpg)")
 
 ## Overview
 
